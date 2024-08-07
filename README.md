@@ -17,7 +17,7 @@ Open the `2048_1` executable file to start playing.
 
 ## Gameplay Preview
 
-![Gameplay]([2048/video.mp4](https://github.com/Kaustubh0912/2048/blob/main/video.mp4))
+![2048/video.mp4](https://github.com/Kaustubh0912/2048/blob/main/video.mp4)
 
 
 
