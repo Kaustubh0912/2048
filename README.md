@@ -6,7 +6,7 @@ Welcome to the 2048 game implementation in Unity! This classic puzzle game chall
 
 1. **Clone the Repository:**
 ```bash
-git clone
+git clone "https://github.com/Kaustubh0912/2048"
 ```
 
 2. **Open the Game Folder:**
@@ -17,11 +17,9 @@ Open the `2048_1` executable file to start playing.
 
 ## Gameplay Preview
 
-[Insert Video Embed Here - Looping and Muted]
+![Gameplay](video.mp4)
 
-## Screenshots
 
-[Insert Screenshots Here]
 
 ## Features
 
@@ -46,6 +44,6 @@ This project is licensed under the [MIT License](link-to-license).
 
 ## Contact
 
-Have any questions or suggestions? Feel free to [contact me](mailto:your-email@example.com).
+Have any questions or suggestions? Feel free to [contact me](mailto:kaustubharun2003@gmail.com).
 
 Enjoy playing 2048!
