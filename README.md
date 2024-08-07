@@ -17,8 +17,7 @@ Open the `2048_1` executable file to start playing.
 
 ## Gameplay Preview
 
-![Video Title](Assets/video.gif)
-
+<img src="Assets/video.gif" alt="2048 Gameplay" width="300"/>
 
 
 ## Features
