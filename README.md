@@ -17,7 +17,7 @@ Open the `2048_1` executable file to start playing.
 
 ## Gameplay Preview
 
-![Gameplay](video.mp4)
+![Gameplay](.\video.mp4)
 
 
 
