@@ -17,7 +17,7 @@ Open the `2048_1` executable file to start playing.
 
 ## Gameplay Preview
 
-![Gameplay](Assets/video.mp4)
+![Gameplay](video.gif)
 <div align="center">
   <a href="Assets/video.mp4">
     <img src="Assets/preview_pic.png" alt="Gameplay Video" width="600"/>
