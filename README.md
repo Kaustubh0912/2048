@@ -17,9 +17,7 @@ Open the `2048_1` executable file to start playing.
 
 ## Gameplay Preview
 
-<video src="Assets/video.mp4" loop>
-  Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/Kaustubh0912/2048/raw/main/Assets/video.mp4
 
 
 ## Features
