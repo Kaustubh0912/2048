@@ -17,8 +17,9 @@ Open the `2048_1` executable file to start playing.
 
 ## Gameplay Preview
 
-https://user-images.githubusercontent.com/Kaustubh0912/2048/raw/main/Assets/video.mp4
-
+<p align="center">
+  <video src="Assets/video.gif" alt="2048 Gameplay" width="100%" style="max-width: 800px;" autoplay loop>
+</p>
 
 ## Features
 
